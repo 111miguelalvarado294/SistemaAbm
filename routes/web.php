@@ -22,7 +22,7 @@ Route::get('/', function () {
 
 /*
 Route::get('/persona', function () {
-    return view('persona.index');
+    return view('persona.inde x');
 });
 
 Route::get('persona/create',[PersonaController::class,'create']);
